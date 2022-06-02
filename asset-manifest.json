@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monster-rules-react/static/css/main.4d486aa2.css",
+    "main.js": "/Monster-rules-react/static/js/main.84e304d9.js",
+    "static/js/787.8a3ee68a.chunk.js": "/Monster-rules-react/static/js/787.8a3ee68a.chunk.js",
+    "index.html": "/Monster-rules-react/index.html",
+    "main.4d486aa2.css.map": "/Monster-rules-react/static/css/main.4d486aa2.css.map",
+    "main.84e304d9.js.map": "/Monster-rules-react/static/js/main.84e304d9.js.map",
+    "787.8a3ee68a.chunk.js.map": "/Monster-rules-react/static/js/787.8a3ee68a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d486aa2.css",
+    "static/js/main.84e304d9.js"
+  ]
+}
